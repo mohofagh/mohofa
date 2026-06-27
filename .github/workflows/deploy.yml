@@ -78,6 +78,13 @@ jobs:
 
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+      
+      # === ADD THE DEBUG STEP HERE ===
+      - name: Debug GitHub Repository Variable
+        run: |
+          echo "========================================"
+          echo "The full GITHUB_REPOSITORY value is: $GITHUB_REPOSITORY"
+          echo "========================================"
 
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
