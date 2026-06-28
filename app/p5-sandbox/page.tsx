@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useEffect, useRef, useState } from "react";
@@ -8,6 +9,11 @@ import pic1 from '@/public/pic1.png'
 // ==========================================
 // PASTE YOUR COPIED CODE FROM THE P5 WEBSITE HERE
 // ==========================================
+declare global {
+  interface Window {
+    p5: any;
+  }
+}
 const MY_RAW_P5_CODE = `
   const images = [
     //{path: 'bg.jpg', x: 0, y: 0, z: 0, width: 500, height: 500, ins: null, layer: null},
