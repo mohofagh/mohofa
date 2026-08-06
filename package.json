@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "generate:gallery": "node scripts/generate-gallery-manifest.mjs",
+    "predev": "npm run generate:gallery",
+    "prebuild": "npm run generate:gallery",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
