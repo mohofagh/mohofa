@@ -1,57 +1,62 @@
 [
   {
+    "id": "Boat set (20260807120831)",
+    "src": "artworks/gallery/Boat set (20260807120831).jpg",
+    "width": 1954,
+    "height": 1954,
+    "title": "Boat set",
+    "medium": "Mixed media",
+    "category": "Class",
+    "description": "",
+    "createdAt": "2026-08-07T12:08:31.000Z",
+    "year": 2026
+  },
+  {
+    "id": "Bird's escape (20260807120823)",
+    "src": "artworks/gallery/Bird's escape (20260807120823).jpg",
+    "width": 1981,
+    "height": 1981,
+    "title": "Bird's escape",
+    "medium": "Mixed media",
+    "category": "Class",
+    "description": "",
+    "createdAt": "2026-08-07T12:08:23.000Z",
+    "year": 2026
+  },
+  {
     "id": "65474863c1de7e63c8dd147f16aedfc2",
     "src": "artworks/gallery/65474863c1de7e63c8dd147f16aedfc2.jpg",
     "width": 736,
     "height": 736,
-    "title": "Held Light",
-    "medium": "Oil pastel on paper",
-    "year": 2024,
-    "category": "Digital",
-    "description": "A study in gesture, proximity, and saturated color."
+    "title": "65474863c1de7e63c8dd147f16aedfc2",
+    "medium": "Mixed media",
+    "category": "Class",
+    "description": "",
+    "createdAt": "2026-08-06T19:54:52.000Z",
+    "year": 2026
   },
   {
     "id": "844b95b795e97f408d0ede4e7d2548cf",
     "src": "artworks/gallery/844b95b795e97f408d0ede4e7d2548cf.jpg",
     "width": 736,
     "height": 736,
-    "title": "Passage",
-    "medium": "Mixed media on paper",
-    "year": 2023,
-    "category": "Studies",
-    "description": "An architectural color study built from layered marks."
-  },
-  {
-    "id": "Project (20260807120823)",
-    "src": "artworks/gallery/Project (20260807120823).jpg",
-    "width": 1981,
-    "height": 1981,
-    "title": "Seated Studies",
-    "medium": "Ink on paper",
-    "year": 2024,
-    "category": "Drawings",
-    "description": "Two observational figure studies drawn from life."
-  },
-  {
-    "id": "Project (20260807120831)",
-    "src": "artworks/gallery/Project (20260807120831).jpg",
-    "width": 1954,
-    "height": 1954,
-    "title": "Untitled 04",
+    "title": "844b95b795e97f408d0ede4e7d2548cf",
     "medium": "Mixed media",
-    "year": 2026,
     "category": "Class",
-    "description": ""
+    "description": "",
+    "createdAt": "2026-08-06T19:54:52.000Z",
+    "year": 2026
   },
   {
     "id": "ef049d3d9703bed32c372ae47b601c25",
     "src": "artworks/gallery/ef049d3d9703bed32c372ae47b601c25.jpg",
     "width": 736,
     "height": 414,
-    "title": "Untitled 05",
+    "title": "ef049d3d9703bed32c372ae47b601c25",
     "medium": "Mixed media",
-    "year": 2026,
     "category": "Class",
-    "description": ""
+    "description": "",
+    "createdAt": "2026-08-06T19:54:52.000Z",
+    "year": 2026
   }
 ]

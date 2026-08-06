@@ -3,8 +3,8 @@ import Gallery from "./gallery";
 import artworks from "./gallery-manifest.json";
 
 export const metadata: Metadata = {
-  title: "Selected Works — Mina Rahi",
-  description: "Drawings, studies, and mixed-media work by Mina Rahi.",
+  title: "Selected Works",
+  description: "Drawings, studies, and mixed-media work",
 };
 
 export default function GalleryPage() {
